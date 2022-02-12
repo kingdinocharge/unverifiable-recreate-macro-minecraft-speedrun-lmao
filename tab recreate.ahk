@@ -30,6 +30,7 @@ Send, {Enter}
 WinWait, Minecraft* 1.16.1 ; Change version for version playing on
 WinActivate ;
              return
+             ; Because this is a bad macro, DONT EXIT MINECRAFT UNTIL YOU ARE AT THE LOADING SCREEN
 
 
 
